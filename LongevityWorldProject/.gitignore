@@ -75,3 +75,7 @@ crashlytics-build.properties
 /[Aa]ssets/SerializedUdonPrograms.meta
 /[Aa]ssets/SerializedUdonPrograms/
 /[Aa]ssets/SerializedUdonPrograms/*.*
+
+/[Aa]ssets/TextMesh Pro.meta
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/TextMesh Pro/*.*
