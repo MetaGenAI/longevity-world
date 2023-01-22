@@ -71,11 +71,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# VRC Serialized Udon Program Assets
-/[Aa]ssets/SerializedUdonPrograms.meta
-/[Aa]ssets/SerializedUdonPrograms/
-/[Aa]ssets/SerializedUdonPrograms/*.*
-
 /[Aa]ssets/TextMesh Pro.meta
 /[Aa]ssets/TextMesh Pro/
 /[Aa]ssets/TextMesh Pro/*.*
