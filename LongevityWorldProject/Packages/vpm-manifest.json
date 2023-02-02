@@ -24,8 +24,7 @@
       }
     },
     "com.vrchat.base": {
-      "version": "3.1.10",
-      "dependencies": {}
+      "version": "3.1.10"
     },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.17",
