@@ -17,18 +17,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: InsideFrontHalfMat
+    second: {fileID: 2100000, guid: 29be97b42199ddc4faa6bb41d7aa4faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: InsideMat
     second: {fileID: 2100000, guid: 29be97b42199ddc4faa6bb41d7aa4faf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: InsideRetinaHalfMat
+    second: {fileID: 2100000, guid: 29be97b42199ddc4faa6bb41d7aa4faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iris
+    second: {fileID: 2100000, guid: 29be97b42199ddc4faa6bb41d7aa4faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Rectus
-    second: {fileID: 2100000, guid: c91a49b2cd445cf42bf8d1cb1df15d4a, type: 2}
+    second: {fileID: 2100000, guid: 29be97b42199ddc4faa6bb41d7aa4faf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sclera
-    second: {fileID: 2100000, guid: 821d0429fd460564687e7c82153327cf, type: 2}
+    second: {fileID: 2100000, guid: 29be97b42199ddc4faa6bb41d7aa4faf, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
