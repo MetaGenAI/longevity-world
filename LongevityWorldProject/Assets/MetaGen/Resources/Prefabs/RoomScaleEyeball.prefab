@@ -743,6 +743,16 @@ PrefabInstance:
       propertyPath: m_AABB.m_Extent.z
       value: 4.428805
       objectReference: {fileID: 0}
+    - target: {fileID: 4921826606326803311, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921826606326803311, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[1]
+      value: 90
+      objectReference: {fileID: 0}
     - target: {fileID: 6364446226619896184, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
         type: 3}
       propertyPath: m_StaticEditorFlags
