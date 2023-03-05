@@ -753,17 +753,17 @@ PrefabInstance:
       propertyPath: m_BlendShapeWeights.Array.data[1]
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 5900021070418023118, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6364446226619896184, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7037244589434020194, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 4294967295
-      objectReference: {fileID: 0}
-    - target: {fileID: 8710325202323528501, guid: 9b463de2425d4ea4c859a5ff92e2cff0,
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
